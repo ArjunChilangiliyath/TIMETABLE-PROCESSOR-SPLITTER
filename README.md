@@ -1,14 +1,2 @@
 # TIMETABLE-PROCESSOR-SPLITTER
 -->Automated the processing of multi-index school timetables using pandas to generate structured class wise Excel outputs, enhancing data usability for staff and administration.
---> this code can be used when the timetable of each day for all classes is given
---> using the file that contain the given data to generate classwise timetable
-
- # Step 1: Install required package
-!pip install XlsxWriter
-# Step 2: Import necessary libraries
-# Step 3: paste the code
-# Step 3: Upload the Excel file
-# Step 4: run the code
-# Step 5: download the output file
-
-# List of weekdays (sheet names) is alterable
